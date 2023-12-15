@@ -1,0 +1,4 @@
+UI.sh : /home/gowaz/Desktop/Project/scripts/UI.sh
+1.txt : /home/gowaz/Desktop/Project/database/1.txt
+lol.txt : /home/gowaz/lol.txt
+lol.txt.gz : /home/gowaz/lol.txt.gz
